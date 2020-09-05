@@ -1,0 +1,19 @@
+{
+  "name": "ma3_task9",
+  "version": "1.0.0",
+  "description": "Task 9 for Workflow 2 MA3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Waldal",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-less": "^4.0.1"
+  }
+}
